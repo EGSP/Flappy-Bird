@@ -1,7 +1,7 @@
 # Flappy-Bird
-My flappy bird game made with Unity 2019 by 6 hours
+Эту игру я делал, практикуясь с мобильными платформами.
 
-Some shots:
+Несколько изображений:
 
 <img src="https://user-images.githubusercontent.com/34096047/64490969-4f94db80-d26b-11e9-8472-b475a7f9c48c.png" width="144" height="256">
 
